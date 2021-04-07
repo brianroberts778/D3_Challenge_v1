@@ -10,3 +10,4 @@ This project looks to create a scatter plot between two of the data variables su
 Note: python -m http.server is used to run the visualization. This hosts the page at localhost:8000 in a web browser.
 
 
+<img width="989" alt="d3graph" src="https://user-images.githubusercontent.com/70656160/113899272-a261ac80-979a-11eb-84f6-dff79a689fc2.png">
