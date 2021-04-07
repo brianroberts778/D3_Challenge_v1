@@ -7,4 +7,6 @@ This project looks to create a scatter plot between two of the data variables su
 - State abbreviations are included in the circles.
 - Axes and labels are created and situated to the left and bottom of the chart.
 
-<img width="984" alt="d3graph" src="https://user-images.githubusercontent.com/70656160/113898840-38e19e00-979a-11eb-9a82-33f936c48988.png">
+Note: python -m http.server is used to run the visualization. This hosts the page at localhost:8000 in a web browser.
+
+
